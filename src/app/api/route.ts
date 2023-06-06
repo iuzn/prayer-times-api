@@ -13,27 +13,27 @@ export async function GET() {
     prayer_times: [
       {
         name: "Imsak",
-        time: "04:21",
+        time: "03:27",
       },
       {
         name: "Güneş",
-        time: "05:52",
+        time: "05:25",
       },
       {
         name: "Öğle",
-        time: "13:11",
+        time: "13:08",
       },
       {
         name: "İkindi",
-        time: "17:00",
+        time: "17:07",
       },
       {
         name: "Akşam",
-        time: "20:19",
+        time: "20:40",
       },
       {
         name: "Yatsı",
-        time: "21:48",
+        time: "22:29",
       },
     ],
   });
